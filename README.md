@@ -9,3 +9,7 @@ http://t.cn/RKQBl9c
   python 3.7  
   sckit-learn 0.23.2  
 ## Result 
+  
+## Usage  
+   Download dataset from website  
+   run the lingspam_filter.py
