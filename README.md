@@ -12,4 +12,4 @@ http://t.cn/RKQBl9c
   ![result](https://github.com/zengzhengqi/Mail-recognition/blob/main/result.png)  
 ## Usage  
    Download dataset from website  
-   run the lingspam_filter.py
+   Run the lingspam_filter.py
