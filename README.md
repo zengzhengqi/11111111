@@ -11,5 +11,5 @@ http://t.cn/RKQBl9c
 ## Result 
   ![result](https://github.com/zengzhengqi/Mail-recognition/blob/main/result.png)  
 ## Usage  
-   Download dataset from website  
+   Download dataset from website Or unzip the dataset into the project   
    Run the lingspam_filter.py
