@@ -9,7 +9,7 @@ http://t.cn/RKQBl9c
   python 3.7  
   sckit-learn 0.23.2  
 ## Result 
-  
+  ![Image text](https://github.com/zengzhengqi/Mail-_ecognition/blob/main/Result/CT5SI1CEY%5D%5B)P81R%40W1X_Q0.png)
 ## Usage  
    Download dataset from website  
    run the lingspam_filter.py
